@@ -5,6 +5,8 @@ bin-release/
 [Bb]in/
 .ipynb_checkpoints
 
+kaggle.json
+
 # Other files and folders
 .settings/
 
